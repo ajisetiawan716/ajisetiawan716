@@ -1,6 +1,6 @@
 ### Hi there 👋
 Iam Aji Setiawan,
-I am a student at <b>STIES Putera Bangsa Tegal</b> with a study focus in Islamic economics in the <b>Sharia Business Management</b> study program. I have interests and hobbies in the field of IT, graphic design and amateur programming.  I also accept freelance work.<br>Please contact me at the contact below if you need graphic design services or anything else.
+I am a student at <b>STIES Putera Bangsa Tegal</b> with a study focus in Islamic economics in the <b>Sharia Business Management</b> study program. I have interests and hobbies in the field of IT, graphic design and amateur programming.  I also accept freelance work.
 
 Web Blog & My Portfolio: www.ajisetiawan.my.id
 <!--
